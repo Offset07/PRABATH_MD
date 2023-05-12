@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "𝙿𝚁𝙰𝙱𝙰𝚃𝙷",
+  "AUTHOR": "DANIEL OFFSET",
   "LANGUAGE": "english",
   "LANGCODE": "en",
   "STRINGS": {
@@ -45,11 +45,11 @@
           "dot": "Did you mean *help?*",
           "couple_male": "*I dont want to die alone,I want a female yaar*",
           "couple_female": "*I dont want to die alone,I want a male yaar*",
-          "admin": "*THIS OWNER CMD* ⛔",
+          "admin": "*THIS OWNER DANIEL* ⛔",
           "botAdmin": "*Give Me A Admin*👨‍💻❗",
-          "owner": "THIS OWNER CMD ⛔",
+          "owner": "THIS OWNER DANIEL OFFSET ⛔",
           "group": "*This Feature Is Only For Groups* ⛔",
-          "private": "*THIS OWNER CMD* ⛔",
+          "private": "*THIS OWNER DANIEL OFFSET* ⛔",
           "bot": "*THIS OWNER CMD* ⛔",
           "wait": "*Please Wait* 🔄" 
       },
